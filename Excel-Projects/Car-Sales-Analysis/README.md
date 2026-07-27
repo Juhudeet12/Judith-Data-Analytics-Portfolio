@@ -41,7 +41,6 @@ This project demonstrates how Microsoft Excel can be used to transform raw sales
 - Total Revenue
 - Top-Selling Car Models
 - Sales by Vehicle Type
-- Monthly Sales Trends
 - Interactive Filters (Slicers)
 
 ---
@@ -81,7 +80,9 @@ Examples of insights from the dashboard include:
 
 ## 📷 Dashboard Preview
 
-Dashboard screenshots will be added here.
+<img width="945" height="451" alt="Car Sales Dashboard" src="https://github.com/user-attachments/assets/01688e0a-0a16-4e54-9de1-e3da0e1d29ef" />
+
+<img width="935" height="501" alt="Car Sales Dashboard 2" src="https://github.com/user-attachments/assets/97e14e2c-c5a3-48a7-b0aa-39b2316d844b" />
 
 ---
 
@@ -89,7 +90,7 @@ Dashboard screenshots will be added here.
 
 - Car Sales Dashboard.xlsx
 - Dashboard Screenshot(s)
-- Project Report (if available)
+- Car Sales Dasboard.pdf
 
 ---
 
