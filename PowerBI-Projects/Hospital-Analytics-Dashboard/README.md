@@ -91,6 +91,7 @@ Business Value
 This dashboard helps management quickly identify performance trends and supports strategic decision-making.
 
 Dashboard Screenshot
+<img width="833" height="469" alt="Executive Dashboard" src="https://github.com/user-attachments/assets/fc22ceac-dfe4-46b5-8a0b-f450e9572bf5" />
 
 ![Executive Dashboard](Executive Dashboard.png)
 
