@@ -90,10 +90,8 @@ Business Value
 
 This dashboard helps management quickly identify performance trends and supports strategic decision-making.
 
-Dashboard Screenshot
-<img width="833" height="469" alt="Executive Dashboard" src="https://github.com/user-attachments/assets/fc22ceac-dfe4-46b5-8a0b-f450e9572bf5" />
 
-![Executive Dashboard](Executive Dashboard.png)
+<img width="833" height="469" alt="Executive Dashboard" src="https://github.com/user-attachments/assets/fc22ceac-dfe4-46b5-8a0b-f450e9572bf5" />
 
 
 🩺 Clinical Dashboard
@@ -112,9 +110,7 @@ Key Metrics
 Business Value
 The dashboard helps hospital administrators monitor the quality of patient care and identify opportunities to improve clinical outcomes.
 
-Dashboard Screenshot
-
-![Clinical Dashboard](Clinical Dashboard.png)
+<img width="835" height="469" alt="Clinical Dashboard" src="https://github.com/user-attachments/assets/a746c276-8be6-4515-8997-2b6522b4dda2" />
 
 
 👨‍⚕️Doctor Performance Dashboard
@@ -132,9 +128,8 @@ Key Metrics
 Business Value
 This dashboard helps management recognize high-performing doctors, identify training opportunities, and improve resource allocation.
 
-Dashboard Screenshot
 
-![Doctor Performance Dashboard](Doctor Performance Dashboard.png)
+<img width="837" height="469" alt="Doctor Performance Dashboard" src="https://github.com/user-attachments/assets/192a2731-0fc5-4cba-a352-0562b94ba545" />
 
 
 🏥Hospital Performance Dashboard
@@ -153,9 +148,8 @@ Key Metrics
 Business Value
 This dashboard enables hospital leaders to evaluate operational performance, monitor long-term trends, and make data-driven decisions to improve efficiency and patient experience.
 
-Dashboard Screenshot
 
-![Hospital Performance Dashboard](Hospital Performance Dashboard.png)
+<img width="834" height="469" alt="Hospital Performance Dashboard" src="https://github.com/user-attachments/assets/300d5e4c-3494-4dba-abc2-171d8d59cf8b" />
 
 
 📌 Project Outcome
