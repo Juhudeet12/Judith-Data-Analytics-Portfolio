@@ -67,12 +67,25 @@ This project demonstrates how analytics can be used to support better product de
 
 ## 📷 Dashboard Preview
 
+Executive Dashboard
 <img width="824" height="464" alt="Executive Overview" src="https://github.com/user-attachments/assets/070bb7a7-c8dd-40c3-b634-f4cefb75844a" />
+
+User Analytics Dashbaord 
 <img width="826" height="464" alt="User Analytics Dashboard" src="https://github.com/user-attachments/assets/4a28e707-92a0-4c35-ba3b-926b826c2708" />
+
+AI Recommendation Dashboard 
 <img width="822" height="466" alt="AI Recommendation Dashboard" src="https://github.com/user-attachments/assets/5706ddea-0a87-498d-8822-86fd750a91d4" />
+
+Creators Marketplace Dashboard 
 <img width="824" height="462" alt="Creators Marketplace Dashboard" src="https://github.com/user-attachments/assets/830a4a3a-7925-4dfd-a976-6124d3708995" />
+
+Content Performance Dashboard 
 <img width="824" height="469" alt="Content Performance Dashboard" src="https://github.com/user-attachments/assets/20045243-e0e2-40cf-b13a-aa052912700d" />
+
+Rewards Dashboard 
 <img width="822" height="464" alt="Rewards Dashboard" src="https://github.com/user-attachments/assets/4ef7f8c9-17c8-4a2e-9b07-cb1b8862f3a3" />
+
+Watch Parties Dashboard
 <img width="819" height="467" alt="Watch Parties Dashboard" src="https://github.com/user-attachments/assets/842a2ab3-35fe-4d94-b47f-1033df5124ef" />
 
 
