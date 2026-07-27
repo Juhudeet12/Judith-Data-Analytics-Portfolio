@@ -1,61 +1,75 @@
-Hi, I'm Judith Obiefuna
-📊 Aspiring Data Analyst
+# 👋 Hi, I'm Judith Obiefuna
 
-Welcome to my Data Analytics Portfolio!
-I'm an aspiring Data Analyst passionate about transforming raw data into meaningful insights that support business decision-making. This portfolio showcases projects I've completed using Microsoft Excel, SQL, and Power BI. Through these projects, I demonstrate my ability to clean, analyze, visualize, and interpret data to solve real-world business problems.
+## 📊 Aspiring Data Analyst
 
-👩🏽‍💻About Me
-I enjoy working with data to uncover trends, solve business challenges, and create interactive dashboards that help organizations make informed decisions.
-My learning journey has focused on practical, hands-on projects involving data cleaning, analysis, visualization, and business intelligence. I am continuously improving my skills by working on real-world datasets and expanding my knowledge of modern data analytics tools.
+I am an aspiring Data Analyst passionate about turning raw data into meaningful business insights. I use Microsoft Excel, SQL, and Power BI to clean, analyze, and visualize data, creating interactive dashboards that support data-driven decision-making.
 
-🛠Technical Skills
-Data Analysis
+I enjoy solving business problems through data analysis and continuously improving my analytical and visualization skills.
+---
+
+## 🛠 Skills
+
 - Microsoft Excel
-- SQL (MySQL & SQLite)
+- SQL
 - Power BI
-- Data Cleaning
-- Data Transformation
-- Data Visualization
-- Dashboard Development
+- Power Query
 - DAX
-- Business Intelligence
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
+- Business Analysis
 
-Microsoft Office
-- Microsoft Excel
-- Microsoft Word
-- Microsoft PowerPoint
+---
 
-Soft Skills
-- Problem Solving
-- Critical Thinking
-- Attention to Detail
-- Communication
-- Teamwork
-- Time Management
+## 📂 Featured Projects
 
-📂 Featured Projects
-📈 Power BI Projects
-Hospital Analytics Dashboard *(Coming Soon)*
-STREAMORA TV Product Analytics *(Coming Soon)*
+## 📂 Featured Projects
 
-📊 Excel Projects
-Restaurant Sales Analysis *(Coming Soon)*
+### 🚗 Car Sales Analysis (Excel)
 
-🗄 SQL Projects
-Retail Store Sales Analysis *(Coming Soon)*
+An interactive Excel dashboard analyzing car sales performance using PivotTables, PivotCharts, KPI cards, and slicers to identify sales trends and top-performing brands.
 
-📜 Certifications
-Professional certifications will be added here as I continue my learning journey.
+**Skills:** Microsoft Excel • PivotTables • PivotCharts • Dashboard Design • Data Analysis
 
-🎯 Career Objective
-To begin my career as a Data Analyst where I can apply my analytical, technical, and problem-solving skills to help organizations make informed, data-driven decisions while continuously learning and growing professionally.
+---
 
-📫 Connect With Me
-📧 Email: obiefunajudith@gmail.com 
-💼 LinkedIn: Coming Soon
-🌐 Portfolio Website: Coming Soon
+### 🛍 Retail Store Sales Analysis (SQL)
 
-⭐ Thank You for Visiting!
-Thank you for taking the time to explore my portfolio.
-I hope my projects demonstrate my passion for data analytics, continuous learning, and solving business problems through data.
-Feel free to explore my repositories, and don't hesitate to connect with me!
+A SQL project that answers key business questions using subqueries, Common Table Expressions (CTEs), aggregate functions, and window functions to analyze customer purchases, sales performance, and product categories.
+
+**Skills:** SQL • CTEs • Window Functions • Data Analysis • Business Reporting
+
+---
+
+### 🎬 STREAMORA TV Analytics Dashboard (Power BI)
+
+An interactive Power BI dashboard that analyzes streaming platform performance, including subscriptions, revenue, user engagement, content popularity, and business KPIs.
+
+**Skills:** Power BI • DAX • Power Query • Data Modeling • Dashboard Design
+
+---
+
+### 🏥 Hospital Analytics Dashboard (Power BI)
+
+A healthcare analytics dashboard that monitors hospital performance by analyzing patient admissions, treatment costs, patient satisfaction, emergency visit rates, average wait times, length of stay, and readmission trends. The dashboard provides actionable insights to support operational and clinical decision-making.
+
+**Skills:** Power BI • DAX • Power Query • KPI Dashboards • Healthcare Analytics • Data Visualization
+---
+
+## 📜 Certifications
+
+My certifications are available in the **Certificates** folder of this repository.
+
+---
+
+## 📄 Resume
+
+My resume is available in the **Resume** folder of this repository.
+
+---
+
+## 📫 Contact
+
+- Email: obiefunajudith@gmail.com
+- LinkedIn: https://www.linkedin.com/in/obiefuna-judith-51163b228?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
