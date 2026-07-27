@@ -91,6 +91,7 @@ Business Value
 This dashboard helps management quickly identify performance trends and supports strategic decision-making.
 
 Dashboard Screenshot
+
 ![Executive Dashboard](Executive Dashboard.png)
 
 
@@ -111,6 +112,7 @@ Business Value
 The dashboard helps hospital administrators monitor the quality of patient care and identify opportunities to improve clinical outcomes.
 
 Dashboard Screenshot
+
 ![Clinical Dashboard](Clinical Dashboard.png)
 
 
@@ -130,6 +132,7 @@ Business Value
 This dashboard helps management recognize high-performing doctors, identify training opportunities, and improve resource allocation.
 
 Dashboard Screenshot
+
 ![Doctor Performance Dashboard](Doctor Performance Dashboard.png)
 
 
@@ -150,6 +153,7 @@ Business Value
 This dashboard enables hospital leaders to evaluate operational performance, monitor long-term trends, and make data-driven decisions to improve efficiency and patient experience.
 
 Dashboard Screenshot
+
 ![Hospital Performance Dashboard](Hospital Performance Dashboard.png)
 
 
