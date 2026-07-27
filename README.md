@@ -55,6 +55,7 @@ An interactive Power BI dashboard that analyzes streaming platform performance, 
 A healthcare analytics dashboard that monitors hospital performance by analyzing patient admissions, treatment costs, patient satisfaction, emergency visit rates, average wait times, length of stay, and readmission trends. The dashboard provides actionable insights to support operational and clinical decision-making.
 
 **Skills:** Power BI • DAX • Power Query • KPI Dashboards • Healthcare Analytics • Data Visualization
+
 ---
 
 ## 📜 Certifications
