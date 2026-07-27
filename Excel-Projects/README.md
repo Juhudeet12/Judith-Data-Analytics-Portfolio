@@ -2,7 +2,7 @@
 This folder contains my Microsoft Excel data analytics projects.
 
 Projects include:
-- Restaurant Sales Analysis
+- Car Sales Analysis
 - Sales Dashboard
 - Data Cleaning
 - Pivot Tables
