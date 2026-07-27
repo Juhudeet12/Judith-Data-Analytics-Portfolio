@@ -21,7 +21,6 @@ I enjoy solving business problems through data analysis and continuously improvi
 
 ---
 
-## 📂 Featured Projects
 
 ## 📂 Featured Projects
 
