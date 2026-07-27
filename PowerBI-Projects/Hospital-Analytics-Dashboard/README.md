@@ -68,6 +68,7 @@ Examples of insights from the dashboard include:
 - Track emergency visit patterns to support staffing and planning.
 
 📷 Dashboard Walkthrough
+
 The Hospital Analytics Dashboard was designed to provide hospital management with an interactive view of operational, financial, and clinical performance. The dashboards enable stakeholders to monitor key metrics, identify trends, and make informed decisions to improve healthcare delivery.
 
 🏥Executive Dashboard
@@ -86,6 +87,7 @@ Key Metrics
 - Treatment Cost
 
 Business Value
+
 This dashboard helps management quickly identify performance trends and supports strategic decision-making.
 
 Dashboard Screenshot
