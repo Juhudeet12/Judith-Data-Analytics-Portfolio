@@ -4,7 +4,9 @@
 
 I am an aspiring Data Analyst passionate about turning raw data into meaningful business insights. I use Microsoft Excel, SQL, and Power BI to clean, analyze, and visualize data, creating interactive dashboards that support data-driven decision-making.
 
-I enjoy solving business problems through data analysis and continuously improving my analytical and visualization skills.
+I enjoy solving business problems through data analysis and continuously improving my analytical and visualization 
+skills.
+
 ---
 
 ## 🛠 Skills
